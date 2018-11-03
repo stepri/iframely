@@ -20,6 +20,7 @@
     "license": "MIT",
     "dependencies": {
         "async": "2.4.1",
+        "aws-serverless-express": "^3.3.5",
         "cheerio": "0.22.0",
         "chokidar": "^2.0.4",
         "ejs": "2.5.7",
